@@ -21,6 +21,8 @@ trait TMembre {
     }
 }
 
+
+// use permet d'importer un ou plusieurs traits dans une classe
 class Commande {
 
     use TPanier, TMembre;

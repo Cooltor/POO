@@ -1,0 +1,16 @@
+<?php
+
+require_once ('autoload.php');
+
+$a = new A;
+var_dump($a);
+
+$b = new B;
+var_dump($b);
+
+$c = new C;
+var_dump($c);
+
+$d = new D;
+var_dump($d);
+
